@@ -23,7 +23,7 @@
   "author": "Vincenzo Scamporlino",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vinzscam/react-native-file-viewer.git"
+    "url": "git://github.com/shanmugamrak/react-native-file-viewer.git"
   },
   "license": "MIT",
   "peerDependencies": {
